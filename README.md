@@ -1,8 +1,8 @@
 <img align="right" height="150" src="./assets/patrick-star-3am.gif"  />
 
+###
 
-
-<h2 align="left">Hi 👋! I'm Omar Alkhamissi</h2>
+<h2 align="left" style="border-bottom: none;">Hi 👋! I'm Omar Alkhamissi</h2>
 
 <h3 align="left">Full-Stack Developer | AI Enthusiast | Computer Programming Student @ Fanshawe College</h3>
 
@@ -15,6 +15,7 @@
   </a>
 </div>
 
+###
 
 <br clear="both">
 
