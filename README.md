@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://media.tenor.com/xLaaJwf8newAAAAM/patrick-star-3am.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/xLaaJwf8newAAAAd/patrick-star-3am.gif"  />
 
 ###
 
@@ -44,6 +44,7 @@
 <td align="center" width="180">
 
 ### ⚙️ Backend
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"  />
@@ -54,6 +55,7 @@
 <td align="center" width="180">
 
 ### 🗄️ Databases
+<br/>
 <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"  />
