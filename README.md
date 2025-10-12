@@ -1,6 +1,6 @@
 <img align="right" height="150" src="./assets/patrick-star-3am.gif"  />
 
-###
+
 
 <h2 align="left">Hi 👋! I'm Omar Alkhamissi</h2>
 
