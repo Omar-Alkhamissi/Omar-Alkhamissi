@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://media1.tenor.com/m/xLaaJwf8newAAAAd/patrick-star-3am.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/xLaaJwf8newAAAAC/patrick-star-3am.gif"  />
 
 ###
 
@@ -13,7 +13,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="180">
+<td align="center" width="180" valign="top">
 
 ### 💻 Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"  />
@@ -27,7 +27,7 @@
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="180" valign="top">
 
 ### 🎨 Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"  />
@@ -41,10 +41,9 @@
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="180" valign="top">
 
 ### ⚙️ Backend
-<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"  />
@@ -52,10 +51,9 @@
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="180" valign="top">
 
 ### 🗄️ Databases
-<br/>
 <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"  />
@@ -63,7 +61,7 @@
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="180" valign="top">
 
 ### ☁️ Cloud & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"  />
