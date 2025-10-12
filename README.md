@@ -2,9 +2,13 @@
 
 ###
 
-<h2 align="left" style="border-bottom: none;">Hi 👋! I'm Omar Alkhamissi</h2>
+<h2 align="left">Hi 👋! I'm Omar Alkhamissi</h2>
+
+###
 
 <h3 align="left">Full-Stack Developer | AI Enthusiast | Computer Programming Student @ Fanshawe College</h3>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/omar-alkhamissi" target="_blank">
@@ -12,6 +16,9 @@
   </a>
   <a href="mailto:o.alkhamissi@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="resume"  />
   </a>
 </div>
 
