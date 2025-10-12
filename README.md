@@ -3,6 +3,9 @@
 ###
 
 <h2 align="left">Hi 👋! I'm Omar Alkhamissi</h2>
+
+###
+
 <h3 align="left">Full-Stack Developer | AI Enthusiast | Computer Programming Student @ Fanshawe College</h3>
 
 ###
