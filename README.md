@@ -13,7 +13,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="200">
+<td align="center" width="180">
 
 ### 💻 Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"  />
@@ -27,7 +27,7 @@
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="180">
 
 ### 🎨 Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"  />
@@ -41,7 +41,7 @@
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="180">
 
 ### ⚙️ Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core"  />
@@ -50,10 +50,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"  />
 
 </td>
-</tr>
 
-<tr>
-<td align="center" width="200">
+<td align="center" width="180">
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"  />
@@ -63,7 +61,7 @@
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="180">
 
 ### ☁️ Cloud & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"  />
@@ -72,14 +70,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"  />
-
-</td>
-
-<td align="center" width="200">
-
-### 📱 Mobile
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android"  />
 
 </td>
 </tr>
