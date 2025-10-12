@@ -1,12 +1,12 @@
+<img align="right" height="150" src="./assets/patrick-star-3am.gif"  />
 
 ###
 
 <h2 align="left">Hi 👋! I'm Omar Alkhamissi</h2>
-<img align="right" height="150" src="./assets/patrick-star-3am.gif"  />
 
+###
 
 <h3 align="left">Full-Stack Developer | AI Enthusiast | Computer Programming Student @ Fanshawe College</h3>
-
 
 ###
 
