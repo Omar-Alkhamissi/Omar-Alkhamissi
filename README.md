@@ -1,4 +1,6 @@
-<img align="right" height="150" src="./assets/patrick-star-3am.gif"  />
+<div align="center">
+  <img src="./assets/patrick-star-3am.gif" height="200" alt="Patrick Star GIF"  />
+</div>
 
 ###
 
