@@ -111,8 +111,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Omar-Alkhamissi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Omar-Alkhamissi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Omar-Alkhamissi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&background=0D1117&ring=025696&fire=025696&currStreakLabel=025696&sideLabels=025696&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Omar-Alkhamissi&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
