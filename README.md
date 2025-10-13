@@ -107,7 +107,8 @@ Passionate about building production-ready applications across the entire stack.
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Omar-Alkhamissi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&background=0D1117&ring=00AEFF&fire=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&stroke=00AEFF" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Omar-Alkhamissi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-Alkhamissi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&title_color=00AEFF&text_color=FFFFFF&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
