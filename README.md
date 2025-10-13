@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="./assets/patrick-star-3am.gif" height="200" alt="Patrick Star GIF"  />
-</div>
-
+ <img src="./assets/patrick-star-3am.gif" height="200" alt="Patrick Star GIF"  />
 ###
 
 <h2 align="left">Hi 👋! I'm Omar Alkhamissi</h2>
