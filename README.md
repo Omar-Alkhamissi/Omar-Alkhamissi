@@ -1,36 +1,22 @@
 <div align="center">
-  <img src="./assets/patrick-star-3am.gif" height="200" alt="Patrick Star GIF"  />
+  <img src="./assets/patrick-star-3am.gif" height="200" alt="Patrick Star GIF" />
 </div>
 
-###
+## Hi 👋! I'm Omar Alkhamissi
 
-<h2 align="left">Hi 👋! I'm Omar Alkhamissi</h2>
+### Software Developer | AI Enthusiast | Computer Programming Student @ Fanshawe College
 
-###
+Passionate about building production-ready applications across the entire stack. From designing databases to deploying cloud solutions, I enjoy solving complex technical challenges and exploring emerging technologies.
 
-<h3 align="left">Software Developer | AI Enthusiast | Computer Programming Student @ Fanshawe College</h3>
+<!-- Center the Markdown table using a surrounding div -->
+<div align="center">
 
-<p align="left">Passionate about building production-ready applications across the entire stack. From designing databases to deploying cloud solutions, I enjoy solving complex technical challenges and exploring emerging technologies.</p>
+| [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/omar-alkhamissi) | [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:o.alkhamissi@gmail.com) | [![Resume](https://img.shields.io/static/v1?message=Resume&logo=&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge)](https://github.com/Omar-Alkhamissi/Resume/blob/main/Omar%20Alkhamissi's%20Resume.pdf) |
+|:-:|:-:|:-:|
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/omar-alkhamissi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img width="12" />
-  <a href="mailto:o.alkhamissi@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://github.com/Omar-Alkhamissi/Resume/blob/main/Omar%20Alkhamissi's%20Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="resume"  />
-  </a>
 </div>
 
-###
-
-<br clear="both">
+---
 
 ## 🛠️ Tech Stack
 
@@ -120,19 +106,15 @@
 </tr>
 </table>
 
-###
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Omar-Alkhamissi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&background=0D1117&ring=00AEFF&fire=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&stroke=00AEFF" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-Alkhamissi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&title_color=00AEFF&text_color=FFFFFF&bg_color=0D1117" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Omar-Alkhamissi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&background=0D1117&ring=00AEFF&fire=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&stroke=00AEFF" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-Alkhamissi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&title_color=00AEFF&text_color=FFFFFF&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Omar-Alkhamissi&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Omar-Alkhamissi&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
-
-###
