@@ -16,9 +16,11 @@
   <a href="https://www.linkedin.com/in/omar-alkhamissi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:o.alkhamissi@gmail.com" target="_blank">
+  <img width="12" />
+  <a href="mailto:o.alkhamissi@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <img width="12" />
   <a href="https://github.com/Omar-Alkhamissi/Resume/blob/main/Omar%20Alkhamissi's%20Resume.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="resume"  />
   </a>
