@@ -38,7 +38,9 @@
 <tr>
 <td align="center" width="200" valign="top" style="border: none;">
 
-### 💻 Languages
+<h3>💻 Languages</h3>
+<hr style="border: 1px solid #00AEFF; width: 80%; margin: 5px auto 15px auto;">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"  />
@@ -52,7 +54,9 @@
 
 <td align="center" width="200" valign="top" style="border: none;">
 
-### 🎨 Frontend
+<h3>🎨 Frontend</h3>
+<hr style="border: 1px solid #00AEFF; width: 80%; margin: 5px auto 15px auto;">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue"  />
@@ -66,7 +70,9 @@
 
 <td align="center" width="200" valign="top" style="border: none;">
 
-### ⚙️ Backend
+<h3>⚙️ Backend</h3>
+<hr style="border: 1px solid #00AEFF; width: 80%; margin: 5px auto 15px auto;">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"  />
@@ -76,7 +82,9 @@
 
 <td align="center" width="200" valign="top" style="border: none;">
 
-### 🗄️ Databases
+<h3>🗄️ Databases</h3>
+<hr style="border: 1px solid #00AEFF; width: 80%; margin: 5px auto 15px auto;">
+
 <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"  />
@@ -86,7 +94,9 @@
 
 <td align="center" width="200" valign="top" style="border: none;">
 
-### 🤖 AI/ML
+<h3>🤖 AI/ML</h3>
+<hr style="border: 1px solid #00AEFF; width: 80%; margin: 5px auto 15px auto;">
+
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"  />
 <br/>
@@ -96,7 +106,9 @@
 
 <td align="center" width="200" valign="top" style="border: none;">
 
-### ☁️ Cloud & Tools
+<h3>☁️ Cloud</h3>
+<hr style="border: 1px solid #00AEFF; width: 80%; margin: 5px auto 15px auto;">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS"  />
