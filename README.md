@@ -81,7 +81,6 @@ Passionate about building production-ready applications across the entire stack.
 <h3>🤖 AI/ML</h3>
 <hr style="border: 1px solid #00AEFF; width: 80%; margin: 5px auto 15px auto;">
 
-<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"  />
