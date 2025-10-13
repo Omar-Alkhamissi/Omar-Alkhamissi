@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/omar-alkhamissi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/Omar-Alkhamissi/Omar-Alkhamissi/blob/main/Omar%20Alkhamissi's%20Resume.pdf" target="_blank">
+  <a href="https://github.com/Omar-Alkhamissi/Resume/blob/main/Omar%20Alkhamissi's%20Resume.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="resume"  />
   </a>
 </div>
