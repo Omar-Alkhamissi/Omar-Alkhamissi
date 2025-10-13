@@ -8,15 +8,13 @@
 
 Passionate about building production-ready applications across the entire stack. From designing databases to deploying cloud solutions, I enjoy solving complex technical challenges and exploring emerging technologies.
 
-<!-- Center the Markdown table using a surrounding div -->
 <div align="center">
 
-| [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/omar-alkhamissi) | [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:o.alkhamissi@gmail.com) | [![Resume](https://img.shields.io/static/v1?message=Resume&logo=&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge)](https://github.com/Omar-Alkhamissi/Resume/blob/main/Omar%20Alkhamissi's%20Resume.pdf) |
-|:-:|:-:|:-:|
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-alkhamissi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.alkhamissi@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/Omar-Alkhamissi/Resume/blob/main/Omar%20Alkhamissi's%20Resume.pdf)
 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -105,8 +103,6 @@ Passionate about building production-ready applications across the entire stack.
 </td>
 </tr>
 </table>
-
----
 
 ## 📊 GitHub Stats
 
