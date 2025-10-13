@@ -10,6 +10,8 @@
 
 <h3 align="left">Full-Stack Developer | AI Enthusiast | Computer Programming Student @ Fanshawe College</h3>
 
+<p align="left">Passionate about building production-ready applications across the entire stack. From designing databases to deploying cloud solutions, I enjoy solving complex technical challenges and exploring emerging technologies.</p>
+
 ###
 
 <div align="left">
@@ -114,7 +116,5 @@
   <img src="https://streak-stats.demolab.com?user=Omar-Alkhamissi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&background=0D1117&ring=00AEFF&fire=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&stroke=00AEFF" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Omar-Alkhamissi&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-
 
 ###
