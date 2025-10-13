@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Full-Stack Developer | AI Enthusiast | Computer Programming Student @ Fanshawe College</h3>
+<h3 align="left">Software Developer | AI Enthusiast | Computer Programming Student @ Fanshawe College</h3>
 
 <p align="left">Passionate about building production-ready applications across the entire stack. From designing databases to deploying cloud solutions, I enjoy solving complex technical challenges and exploring emerging technologies.</p>
 
