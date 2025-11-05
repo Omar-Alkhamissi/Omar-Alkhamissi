@@ -60,6 +60,8 @@ Passionate about building production-ready applications across the entire stack.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"  />
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"  />
 
 </td>
@@ -72,6 +74,8 @@ Passionate about building production-ready applications across the entire stack.
 <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="Microsoft SQL Server"  />
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"  />
 
 </td>
@@ -115,5 +119,3 @@ Passionate about building production-ready applications across the entire stack.
   <img src="https://github-profile-trophy.vercel.app?username=Omar-Alkhamissi&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4&t=1762367008" height="150" alt="trophy graph" />
 
 </div>
-
-
