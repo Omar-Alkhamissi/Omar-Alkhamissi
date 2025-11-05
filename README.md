@@ -25,6 +25,7 @@ Passionate about building production-ready applications across the entire stack.
 <h3>💻 Languages</h3>
 <hr style="border: 1px solid #00AEFF; width: 80%; margin: 5px auto 15px auto;">
 
+<!-- Pyramid structure with Ruby -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"  />
@@ -33,6 +34,8 @@ Passionate about building production-ready applications across the entire stack.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"  />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" />
 
 </td>
 
@@ -56,7 +59,6 @@ Passionate about building production-ready applications across the entire stack.
 
 <h3>⚙️ Backend</h3>
 <hr style="border: 1px solid #00AEFF; width: 80%; margin: 5px auto 15px auto;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"  />
@@ -70,11 +72,10 @@ Passionate about building production-ready applications across the entire stack.
 
 <h3>🗄️ Databases</h3>
 <hr style="border: 1px solid #00AEFF; width: 80%; margin: 5px auto 15px auto;">
-
 <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="Microsoft SQL Server"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="MicrosoftSQLServer"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"  />
 
@@ -84,7 +85,6 @@ Passionate about building production-ready applications across the entire stack.
 
 <h3>🤖 AI/ML</h3>
 <hr style="border: 1px solid #00AEFF; width: 80%; margin: 5px auto 15px auto;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"  />
@@ -95,7 +95,6 @@ Passionate about building production-ready applications across the entire stack.
 
 <h3>☁️ Cloud</h3>
 <hr style="border: 1px solid #00AEFF; width: 80%; margin: 5px auto 15px auto;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"  />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS"  />
@@ -110,12 +109,7 @@ Passionate about building production-ready applications across the entire stack.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Omar-Alkhamissi&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3&background=0D1117&ring=00AEFF&fire=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&stroke=00AEFF" height="150" alt="streak graph" />
-
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-Alkhamissi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&count_private=false&t=1762367008" height="150" alt="languages graph" />
-
   <img src="https://github-profile-trophy.vercel.app?username=Omar-Alkhamissi&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4&t=1762367008" height="150" alt="trophy graph" />
-
 </div>
