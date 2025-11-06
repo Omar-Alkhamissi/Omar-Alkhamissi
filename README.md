@@ -10,9 +10,9 @@ Passionate about building production-ready applications across the entire stack.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-alkhamissi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.alkhamissi@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/Omar-Alkhamissi/Resume/blob/main/Omar%20Alkhamissi's%20Resume.pdf)
+[!LinkedIn](https://www.linkedin.com/in/o-alkhamissi/)
+[!Gmail](mailto:o.alkhamissi@gmail.com)
+[!Resume](https://github.com/Omar-Alkhamissi/Resume/blob/main/Omar%20Alkhamissi's%20Resume.pdf)
 
 </div>
 
