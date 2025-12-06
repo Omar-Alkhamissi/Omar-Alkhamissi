@@ -3,7 +3,7 @@ name: Update README Stats
 on:
   workflow_dispatch:  # Manual trigger button
   schedule:
-    - cron: '0 */24 * * *'  # Auto-update every 12 hours
+    - cron: '0 */24 * * *'  # Auto-update every X hours
 
 jobs:
   update-stats:
