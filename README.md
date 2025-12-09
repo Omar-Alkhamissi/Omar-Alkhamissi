@@ -4,7 +4,7 @@
 
 ## Hi 👋! I'm Omar Alkhamissi
 
-### Software Developer | AI Enthusiast | Computer Programming Student @ Fanshawe College
+### Software Developer | Computer Programming Student @ Fanshawe College
 
 Passionate about building production-ready applications across the entire stack. From designing databases to deploying cloud solutions, I enjoy solving complex technical challenges and exploring emerging technologies.
 
